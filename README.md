@@ -34,3 +34,6 @@ First you need to install the requirements:
   
   You can see the results of the code that has already been executed. Run, restart, and execute all from the notified to rerun the code.
   After loading the database first we need to convert the format of image into float. 30% of dataset is used as a validation dataset. Using sequential model of keras I create a CNN model layer by layer which are convolutional layer, pooling layer, fully connected layer. The model is trained over 300 epochs. and at last the accuracy is around 93%.
+  
+ # Result 
+ ![Output](https://github.com/MeghaChawala/Face-recognition/blob/main/Result%20(1).jpg)
