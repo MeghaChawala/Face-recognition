@@ -37,3 +37,6 @@ First you need to install the requirements:
   
  # Result 
  ![Output](https://github.com/MeghaChawala/Face-recognition/blob/main/Result%20(1).jpg)
+ 
+ # Road-map
+ I can employ more distinct types of categories in the future work that would be tough for the computer to classify and compare more advanced classifiers.
