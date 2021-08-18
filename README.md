@@ -30,6 +30,8 @@ First you need to install the requirements:
   
   The dataset is ORL_faces.npz consists 400 different face images from 40 distinct subjects.
   
+  you must extract the zip file into code folder
+  
 # Usage
   
   You can see the results of the code that has already been executed. Run, restart, and execute all from the notified to rerun the code.
